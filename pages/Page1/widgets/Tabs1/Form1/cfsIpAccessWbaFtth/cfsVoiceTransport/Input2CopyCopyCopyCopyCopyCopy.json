@@ -1,7 +1,7 @@
 {
     "boxShadow": "none",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.f2c34197dbcf03595098986de898928f.svg",
-    "topRow": 6,
+    "topRow": 5,
     "labelWidth": "16",
     "type": "INPUT_WIDGET_V2",
     "animateLoading": true,
@@ -36,7 +36,7 @@
         "number",
         "textarea"
     ],
-    "bottomRow": 10,
+    "bottomRow": 9,
     "parentRowSpace": 10,
     "autoFocus": false,
     "hideCard": false,

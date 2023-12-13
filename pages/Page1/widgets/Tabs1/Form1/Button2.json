@@ -10,8 +10,8 @@
         "click",
         "submit"
     ],
-    "topRow": 237,
-    "bottomRow": 241,
+    "topRow": 255,
+    "bottomRow": 259,
     "type": "BUTTON_WIDGET",
     "hideCard": false,
     "mobileRightColumn": 46,
@@ -36,11 +36,11 @@
     "isLoading": false,
     "mobileTopRow": 33,
     "responsiveBehavior": "hug",
-    "originalTopRow": 237,
+    "originalTopRow": 255,
     "disabledWhenInvalid": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 30,
-    "originalBottomRow": 241,
+    "originalBottomRow": 259,
     "buttonVariant": "SECONDARY",
     "placement": "CENTER"
 }
